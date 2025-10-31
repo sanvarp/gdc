@@ -402,15 +402,3 @@ El archivo `docs/CONTRATOS.md` contiene la especificación completa:
 - Tests: Mínimo 70% coverage para PRs
 - TypeScript: Strict mode, sin `any`
 
-## 📄 Licencia
-
-MIT
-
----
-
-**Desarrollado con ❤️ siguiendo las mejores prácticas de React, TypeScript y Accesibilidad**
-
-Para más información, consulta:
-- `docs/CONTRATOS.md` - Especificación API
-- `src/api/client.ts` - Implementación de mocks
-- `src/types/index.ts` - Definiciones de tipos
